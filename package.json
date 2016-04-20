@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/STBTony/Calliope/issues"
   },
-  "homepage": "https://github.com/STBTony/Calliope#readme"
+  "homepage": "https://github.com/STBTony/Calliope#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "pg-promise": "^3.9.0"
+  }
 }
